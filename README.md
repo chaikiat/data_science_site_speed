@@ -1,28 +1,22 @@
 # Data Science Portfolio
 
-About Me
-    - I am Chai Kiat Kho (CK), currently in the May 2022 cohort of the Optus University/Macquarie Univeristy Data Science 1 micro-credential course
-    - I am also a Senior Digital Analyst at Optus, working with the Digital Personalisation team
-    - My work email is: chaikiat.kho@optus.com.au
-    - My GIT ID is: ck-kho-1
-
 ### Portfolio Status
 
 1. Portfolio 1 
     - __Status: Completed and Committed (commit message: Commit | Portfolio 1 | 25Jul)__
-    - _Git organisation name: MQ-Data-Science-OptusU-2022-May_
+    - _Git organisation name: MQ-Data-Science-OU-2022-May_
     - _Repository name: portfolio-ck-kho-1_
     - _File name: Portfolio 1.ipynb_
 
 2. Portfolio 2
     - __Status: Completed and Committed (commit message: Commit | Portfolio 2 | 25Jul)__
-    - _Git organisation name: MQ-Data-Science-OptusU-2022-May_
+    - _Git organisation name: MQ-Data-Science-OU-2022-May_
     - _Repository name: portfolio-ck-kho-1_
     - _File name: Portfolio 2.ipynb_
 
 3. Portfolio 3
     - __Status: Completed and Committed (commit message: Commit | Portfolio 3 | 25Jul)__
-    - _Git organisation name: MQ-Data-Science-OptusU-2022-May_
+    - _Git organisation name: MQ-Data-Science-OU-2022-May_
     - _Repository name: portfolio-ck-kho-1_
     - _File name: Portfolio 3.ipynb_
 
